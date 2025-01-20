@@ -1,13 +1,14 @@
 # Bank_Management_System
-<h2>Context or Problem Statement:</h3>
+<h3>Context or Problem Statement:</h3>
 This was my first project, and I wanted to build something that simulated real-world scenarios while helping me strengthen my Python skills. Banking is a critical domain where efficient management of accounts and transactions is essential. I decided to create a Bank Management System that could handle core banking operations like creating accounts, managing transactions, and deleting accounts, all through a simple and user-friendly backend interface. The goal was to develop a system that replicates basic banking functionality, focusing on accuracy and reliability.
 
-<h2>Overview of the Project:</h2>
+<h3>Overview of the Project:</h3>
 My project is a Python-based backend application that uses object-oriented programming principles. 
 It consists of two main classes:
 
-I.BankAccount Class: 
-                    This handles individual accounts, storing details like account number, account name, and balance. It also provides methods for depositing and withdrawing money and displaying account details.
+<h4>I.BankAccount Class:</h4>
+                        This handles individual accounts, storing details like account number, account name, and balance. It also provides methods for 
+                        depositing and withdrawing money and displaying account details.
 
 II.Bank Class: This acts as the central management system, maintaining multiple accounts in a dictionary for quick access. It includes methods to create new accounts, delete existing ones, and access account details.
 
