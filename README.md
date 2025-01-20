@@ -6,26 +6,20 @@ This was my first project, and I wanted to build something that simulated real-w
 <h3>Overview of the Project:</h3>
 My project is a Python-based backend application that uses object-oriented programming principles. 
 <h4>It consists of two main classes:</h4>
-<h4>I.BankAccount Class:</h4>
-This handles individual accounts, storing details like account number, account name, and balance. It also provides methods for depositing and withdrawing money and displaying account details.
+<h4>I.BankAccount Class:</h4>This handles individual accounts, storing details like account number, account name, and balance. It also provides methods for depositing and withdrawing money and displaying account details.
 
-<h4>II.Bank Class:</h4>
-This acts as the central management system, maintaining multiple accounts in a dictionary for quick access. It includes methods to create new accounts, delete existing ones, and access account details.
+<h4>II.Bank Class:</h4>This acts as the central management system, maintaining multiple accounts in a dictionary for quick access. It includes methods to create new accounts, delete existing ones, and access account details.
 
 The program has a menu-driven interface that allows users to interact with the system.
 <h4>The main features include:</h4>
 
-<h4>I.Account Creation:</h4>
-Users can create accounts by providing an account number, name, and optional initial balance.
+<h4>I.Account Creation:</h4>Users can create accounts by providing an account number, name, and optional initial balance.
 
-<h4>II.Deposits and Withdrawals:</h4>
-Users can securely add or withdraw money, with checks for sufficient balance during withdrawals.
+<h4>II.Deposits and Withdrawals:</h4>Users can securely add or withdraw money, with checks for sufficient balance during withdrawals.
 
-<h4>III.Account Details:</h4>
-Users can view account information like name, number, and current balance.
+<h4>III.Account Details:</h4>Users can view account information like name, number, and current balance.
 
-IV.Account Deletion:
-Accounts can be removed when no longer needed.
+<h4>IV.Account Deletion:</h4>Accounts can be removed when no longer needed.
 
 The system handles edge cases, such as preventing duplicate account creation or withdrawals beyond the available balance. This ensured that the system mimicked real-world banking constraints.
 
