@@ -6,7 +6,6 @@ This was my first project, and I wanted to build something that simulated real-w
 <h3>Overview of the Project:</h3>
 My project is a Python-based backend application that uses object-oriented programming principles. 
 <h4>It consists of two main classes:</h4>
-
 <h4>I.BankAccount Class:</h4>
 This handles individual accounts, storing details like account number, account name, and balance. It also provides methods for depositing and withdrawing money and displaying account details.
 
@@ -32,7 +31,6 @@ The system handles edge cases, such as preventing duplicate account creation or 
 
 <h3>Conclusion:</h3>
 This project was an excellent starting point for me to understand how real-world systems work and how to translate them into functional code. It allowed me to learn and apply concepts like object-oriented programming, error handling, and data storage using Python’s dictionaries.<br>
+While the project is a backend application, it is designed to be scalable, meaning it can be integrated with a frontend or a database in the future to make it a complete banking solution. This project helped me develop a solid foundation for backend development, problem-solving, and logical thinking, skills I am confident will add value to any team.</br>
 
-While the project is a backend application, it is designed to be scalable, meaning it can be integrated with a frontend or a database in the future to make it a complete banking solution. This project helped me develop a solid foundation for backend development, problem-solving, and logical thinking, skills I am confident will add value to any team.<br>
-
-Being my first project, it not only boosted my confidence but also inspired me to take on more complex projects in the future.<br>
+Being my first project, it not only boosted my confidence but also inspired me to take on more complex projects in the future.
