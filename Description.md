@@ -1,6 +1,6 @@
 # Bank_Management_System
 <h3>Context or Problem Statement:</h3>
-This was my first project, and I wanted to build something that simulated real-world scenarios while helping me strengthen my Python skills. Banking is a critical domain where efficient management of accounts and transactions is essential. I decided to create a Bank Management System that could handle core banking operations like creating accounts, managing transactions, and deleting accounts, all through a simple and user-friendly backend interface. The goal was to develop a system that replicates basic banking functionality, focusing on accuracy and reliability.
+This was my first project, and I wanted to build something that simulated real-world scenarios while helping me strengthen my Python skills. Banking is a critical domain where efficient management of accounts and transactions is essential. I decided to create a Bank Management System that could handle core banking operations like creating accounts, managing transactions, and deleting accounts, all through a simple and user-friendly backend interface. The goal was to develop a system that replicates basic banking functionality, focusing on accuracy and reliability. 
 
 
 <h3>Overview of the Project:</h3>
