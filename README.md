@@ -1,6 +1,6 @@
 # Bank_Management_System
 <h3>Context or Problem Statement:</h3>
-<h5>This was my first project, and I wanted to build something that simulated real-world scenarios while helping me strengthen my Python skills. Banking is a critical domain where efficient management of accounts and transactions is essential. I decided to create a Bank Management System that could handle core banking operations like creating accounts, managing transactions, and deleting accounts, all through a simple and user-friendly backend interface. The goal was to develop a system that replicates basic banking functionality, focusing on accuracy and reliability.</h5>
+This was my first project, and I wanted to build something that simulated real-world scenarios while helping me strengthen my Python skills. Banking is a critical domain where efficient management of accounts and transactions is essential. I decided to create a Bank Management System that could handle core banking operations like creating accounts, managing transactions, and deleting accounts, all through a simple and user-friendly backend interface. The goal was to develop a system that replicates basic banking functionality, focusing on accuracy and reliability.
 
 
 <h3>Overview of the Project:</h3>
@@ -21,7 +21,7 @@ The program has a menu-driven interface that allows users to interact with the s
 
 <h4>IV.Account Deletion:</h4>Accounts can be removed when no longer needed.
 
-<h5>The system handles edge cases, such as preventing duplicate account creation or withdrawals beyond the available balance. This ensured that the system mimicked real-world banking constraints.</h5>
+The system handles edge cases, such as preventing duplicate account creation or withdrawals beyond the available balance. This ensured that the system mimicked real-world banking constraints.
 
 <h3>Conclusion:</h3>
-<h5>This project was an excellent starting point for me to understand how real-world systems work and how to translate them into functional code. It allowed me to learn and apply concepts like object-oriented programming, error handling, and data storage using Python’s dictionaries. While the project is a backend application, it is designed to be scalable, meaning it can be integrated with a frontend or a database in the future to make it a complete banking solution. This project helped me develop a solid foundation for backend development, problem-solving, and logical thinking, skills I am confident will add value to any team.Being my first project, it not only boosted my confidence but also inspired me to take on more complex projects in the future.</h5>
+This project was an excellent starting point for me to understand how real-world systems work and how to translate them into functional code. It allowed me to learn and apply concepts like object-oriented programming, error handling, and data storage using Python’s dictionaries. While the project is a backend application, it is designed to be scalable, meaning it can be integrated with a frontend or a database in the future to make it a complete banking solution. This project helped me develop a solid foundation for backend development, problem-solving, and logical thinking, skills I am confident will add value to any team.Being my first project, it not only boosted my confidence but also inspired me to take on more complex projects in the future.
