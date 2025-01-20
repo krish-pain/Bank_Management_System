@@ -24,8 +24,9 @@ Users can securely add or withdraw money, with checks for sufficient balance dur
 <h4>III.Account Details:</h4>
 Users can view account information like name, number, and current balance.
 
-<h4>IV.Account Deletion:</h4>
-Accounts can be removed when no longer needed.<br>
+IV.Account Deletion:
+Accounts can be removed when no longer needed.
+
 The system handles edge cases, such as preventing duplicate account creation or withdrawals beyond the available balance. This ensured that the system mimicked real-world banking constraints.
 
 <h3>Conclusion:</h3>
